@@ -4,12 +4,19 @@ qgis-openlayers-plugin is a QGIS[http://www.qgis.org/] plugin embedding OpenLaye
 
 
 ==Installation
+To install
 
-=== Bug tracker and Wiki
- http://hub.qgis.org/projects/openlayers
-
-=== Plugin repository
+* Choose 'Plugins' menu -> 'Fetch Python Plugins...'
+* Select the 'Repositories' tab at the top
+* Add a new repository with the URL:
  http://build.sourcepole.ch/qgis/plugins.xml
+This should allow you to find and install the OpenLayers plugin
+
+== Using the plugin 
+Simply choose from a set of raster layer options under the new 'Plugins' -> 'OpenLayers plugin' menu, to add them to your map
+
+== Bug tracker and Wiki
+ http://hub.qgis.org/projects/openlayers
 
 ==License
 
